@@ -1,0 +1,69 @@
+﻿jsonpCallback({
+	"b_order": ["dongtaiwang_top","videos","tv","epochtimes","ntdtv","mhwin","secretchina","dongtaiwang_ytb","software","domain","custom","video","art","website","book"],
+    "b_data": [
+
+
+
+{  "title": "推荐网站",
+		"css": "background:linear-gradient; color:;",	
+		"list": [
+{"title": "动态网", "url": "http://dp0r2i3ixve2v.cloudfront.net/SptVE#b840t44f"},
+{"title": "法轮大法明慧网", "url": "http://d1znr9c9sm73cv.cloudfront.net/GnoF#r4xv0vxb"},
+{"title": "新唐人电视台", "url": "http://d1znr9c9sm73cv.cloudfront.net/ZHo8#b0j0h80l"},
+{"title": "大纪元", "url": "http://d1znr9c9sm73cv.cloudfront.net/KXy8#n4v6d4xh"},
+{"title": "看中国", "url": "http://d1znr9c9sm73cv.cloudfront.net/ENBg#2844vbnb"},
+{"title": "正见网", "url": "http://d1znr9c9sm73cv.cloudfront.net/5kU6#0h466fn4"},
+{"title": "希望之声", "url": "http://d1znr9c9sm73cv.cloudfront.net/THzY#86b224z8"},
+{"title": "明慧之窗", "url": "http://d1znr9c9sm73cv.cloudfront.net/U9Y3f#4v62fxnl"},
+{"title": "干净世界", "url": "http://d1znr9c9sm73cv.cloudfront.net/WtV1A#0p446b6h"},
+{"title": "明见网", "url": "http://d1znr9c9sm73cv.cloudfront.net/Dhv1#npvrl62t"},
+{"title": "明慧广播", "url": "http://d1znr9c9sm73cv.cloudfront.net/X7fU4EjQe#4v062822"},
+{"title": "神州明见", "url": "http://d1znr9c9sm73cv.cloudfront.net/Mjvio#xx8dx6jb"},
+{"title": "神州明见网页真相播放器", "url": "http://d1znr9c9sm73cv.cloudfront.net/13769"}]},
+{		"title": "Html电子书",
+		"css": "background:linear-gradient(#b3b8cc,#6179c0); color:#FFF;",
+
+		"list": [
+	    {  "title": "九评共产党", "url": "https://tizhong.github.io/book_html/9ping.html" },
+            {
+                "title": "风雨天地行",
+                "url": "https://tizhong.github.io/book_html/fytdx.html"              
+            },
+            {
+                "title": "你我有缘画册",
+                "url": "https://tizhong.github.io/book_html/huace.html"              
+            },
+            {
+                "title": "解体党文化",
+                "url": "https://tizhong.github.io/book_html/jtdwh.html"              
+            },
+            {
+                "title": "江泽民其人",
+                "url": "https://tizhong.github.io/book_html/jzmqr.html"              
+          },
+            {
+                "title": "“死刑犯”撑不起中国器官移植市场上的蘑菇云",
+                "url": "https://tizhong.github.io/book_html/murder.html"              
+            },
+            {
+                "title": "世纪伪案 惊天骗局",
+                "url": "https://tizhong.github.io/book_html/pj.html"              
+            },
+            {
+                "title": "退党手册",
+                "url": "https://tizhong.github.io/book_html/tdsc.html"              
+            },
+            {
+                "title": "共产主义的终极目的",
+                "url": "https://tizhong.github.io/book_html/zjmd.html"    }
+
+
+
+
+                    ]  }
+
+
+
+			]                
+}
+);
